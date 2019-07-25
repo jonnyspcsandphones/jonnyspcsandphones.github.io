@@ -1,7 +1,14 @@
 body, html {
     height: 100%;
 }
-
+body {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pic/TechBackground.png");
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+	background-size: auto;
+	color: white;
+}
 /* The hero image */
 .Header-Image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
@@ -29,7 +36,7 @@ body, html {
 
 .column {
   float: left;
-  width: 25%;
+  width: 20%;
 }
 
 .left, .right {
