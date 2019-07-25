@@ -29,5 +29,5 @@ body, html {
 
 /*Background image for Main Body of HTML */
 .body {
-	background-image: url("pic/background-index.png");
+	background-color: red;
 }
