@@ -8,7 +8,7 @@ body, html {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pic/background-index.png);
 
   /* Set a specific height */
-  height: 50%;
+  height: 35%;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
@@ -27,7 +27,15 @@ body, html {
   color: white;
 }
 
-/*Background image for Main Body of HTML */
-.body {
-	background-color: red;
+.column {
+  float: left;
+  width: 25%;
+}
+
+.left, .right {
+  width: 15%;
+}
+
+.middle {
+  width: 15%;
 }
