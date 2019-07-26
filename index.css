@@ -142,9 +142,6 @@ body {
 
 @media all and (max-width: 629px) {
 
-body, html {
-    height: 100%;
-}
 body {
 	background-image: url("pic/TechBackground.png");
 	background-repeat: no-repeat;
