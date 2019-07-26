@@ -93,10 +93,6 @@ body {
 	width:100px;
 	border: 1px solid blue;
 }
-.contactBtn:hover {
-	background-color: blue;
-	color: white;
-}
 /* The hero image */
 .Header-Image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
@@ -122,18 +118,4 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-}
-
-.column {
-  float: left;
-  width: 20%;
-  border: 1px solid blue;
-}
-
-.left, .right {
-  width: 15%;
-}
-
-.middle {
-  width: 15%;
 }
