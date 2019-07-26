@@ -166,6 +166,16 @@ body {
   width: 100%; /* Full width */
   z-index: 1000;
 }
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}  
   
 }
 
@@ -187,7 +197,15 @@ body {
   width: 100%; /* Full width */
   z-index: 1000;
 }
-  
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+} 
 }
 
 /* 
@@ -208,7 +226,15 @@ body {
   width: 100%; /* Full width */
   z-index: 1000;
 } 
-
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 }
 
 /* 
@@ -229,7 +255,15 @@ body {
   width: 100%; /* Full width */
   z-index: 1000;
 }
-
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 }
 
 /* 
@@ -250,5 +284,13 @@ body {
   width: 100%; /* Full width */
   z-index: 1000;
 }
-  
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}  
 }
